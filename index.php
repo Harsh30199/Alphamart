@@ -221,7 +221,7 @@
                   </div>
                 </div>
 
-             <div class="thumbnail" style="width:100%;">
+                          <div class="thumbnail" style="width:100%;">
                   <img src="img/amit.jpg" alt="Amit" style="width:100%;height:500px;">
                   <div class="container">
                     <h2>Amit Birajdar</h2>
@@ -244,28 +244,8 @@
                 </div>
 
             </div>
-             <div class="thumbnail" style="width:100%;">
-                  <img src="img/amit.jpg" alt="Amit" style="width:100%;height:500px;">
-                  <div class="container">
-                    <h2>Amit Birajdar</h2>
-                    <p class="title">CEO & Founder</p>
-                    <p>Engineer in Computer Science adnd Designer.</p>
-                    <p>amitbirajdar7@gmail.com</p>
-                    <p>9892921223</p>
-                  </div>
-                </div>
-            </div>
-             <div class="thumbnail" style="width:100%;">
-                  <img src="img/harsh.jpg" alt="Harsh" style="width:100%;height:500px;">
-                  <div class="container">
-                    <h2>Harsh Agarwal</h2>
-                    <p class="title">CEO & Founder</p>
-                    <p>Engineer in Computer Science adnd Designer.</p>
-                    <p>harsh30199@gmail.com</p>
-                    <p>9820534377</p>
-                  </div>
-                </div>
-            </div>
+             
+            
 
             </div>
             <br><br><br><br><br><br><br><br>
